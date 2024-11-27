@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KTÜ - Ders Seçimi</title>
+    <link rel="stylesheet" href="assets/css/dashboard.css">
+</head>
+<body>
+    <header>
+        <h1>KTÜ Yönetim Sistemi</h1>
+        <nav>
+            <ul>
+                <li><a href="profile.html">Profil</a></li>
+                <li><a href="dashboard.html">Panel</a></li>
+                <li><a href="#">Çıkış Yap</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Ders Seçimi</h2>
+        <form id="courseSelectionForm">
+            <label for="courses">Dersler:</label>
+            <select id="courses" multiple>
+                <option value="1">Matematik</option>
+                <option value="2">Fizik</option>
+                <option value="3">Yazılım Geliştirme</option>
+            </select>
+            <button type="submit">Dersleri Kaydet</button>
+        </form>
+    </main>
+    <footer>
+        <p>© 2024 Karadeniz Teknik Üniversitesi</p>
+    </footer>
+    <script src="assets/js/course-selection.js"></script>
+</body>
+</html>

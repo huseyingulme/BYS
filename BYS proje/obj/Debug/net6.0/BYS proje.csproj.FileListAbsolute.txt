@@ -1,0 +1,6 @@
+C:\Users\husey\Desktop\BYS proje\obj\Debug\net6.0\BYS proje.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\BYS proje\obj\Debug\net6.0\BYS proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\BYS proje\obj\Debug\net6.0\BYS proje.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\BYS proje\obj\Debug\net6.0\BYS proje.AssemblyInfo.cs
+C:\Users\husey\Desktop\BYS proje\obj\Debug\net6.0\BYS proje.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\BYS proje\obj\Debug\net6.0\BYS proje.MvcApplicationPartsAssemblyInfo.cache
